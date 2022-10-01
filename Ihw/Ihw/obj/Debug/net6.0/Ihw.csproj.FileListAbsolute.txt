@@ -1,0 +1,15 @@
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.csproj.AssemblyReference.cache
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.AssemblyInfoInputs.cache
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.AssemblyInfo.cs
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.csproj.CoreCompileInputs.cache
+C:\Users\marat\source\repos\Ihw\Ihw\bin\Debug\net6.0\Ihw.exe
+C:\Users\marat\source\repos\Ihw\Ihw\bin\Debug\net6.0\Ihw.deps.json
+C:\Users\marat\source\repos\Ihw\Ihw\bin\Debug\net6.0\Ihw.runtimeconfig.json
+C:\Users\marat\source\repos\Ihw\Ihw\bin\Debug\net6.0\Ihw.dll
+C:\Users\marat\source\repos\Ihw\Ihw\bin\Debug\net6.0\Ihw.pdb
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.dll
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\refint\Ihw.dll
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.pdb
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\Ihw.genruntimeconfig.cache
+C:\Users\marat\source\repos\Ihw\Ihw\obj\Debug\net6.0\ref\Ihw.dll
