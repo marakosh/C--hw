@@ -1,0 +1,17 @@
+C:\Users\marat\source\repos\Cash Register\Cash Register\bin\Debug\net6.0\Cash Register.exe
+C:\Users\marat\source\repos\Cash Register\Cash Register\bin\Debug\net6.0\Cash Register.deps.json
+C:\Users\marat\source\repos\Cash Register\Cash Register\bin\Debug\net6.0\Cash Register.runtimeconfig.json
+C:\Users\marat\source\repos\Cash Register\Cash Register\bin\Debug\net6.0\Cash Register.dll
+C:\Users\marat\source\repos\Cash Register\Cash Register\bin\Debug\net6.0\Cash Register.pdb
+C:\Users\marat\source\repos\Cash Register\Cash Register\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.csproj.AssemblyReference.cache
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.AssemblyInfoInputs.cache
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.AssemblyInfo.cs
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.csproj.CoreCompileInputs.cache
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.csproj.CopyComplete
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.dll
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\refint\Cash Register.dll
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.pdb
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\Cash Register.genruntimeconfig.cache
+C:\Users\marat\source\repos\Cash Register\Cash Register\obj\Debug\net6.0\ref\Cash Register.dll

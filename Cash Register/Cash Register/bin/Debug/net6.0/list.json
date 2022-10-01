@@ -1,0 +1,27 @@
+{
+  "Pepperoni Pizza": {
+    "Count": 2,
+    "Price": 15,
+    "Title": "Pepperoni Pizza"
+  },
+  "Fanta": {
+    "Count": 2,
+    "Price": 2,
+    "Title": "Fanta"
+  },
+  "Orange": {
+    "Count": 15,
+    "Price": 1,
+    "Title": "Orange"
+  },
+  "Cow Milk": {
+    "Count": 3,
+    "Price": 1,
+    "Title": "Cow Milk"
+  },
+  "Sony TV": {
+    "Count": 1,
+    "Price": 500,
+    "Title": "Sony TV"
+  }
+}
